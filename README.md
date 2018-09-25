@@ -2,7 +2,8 @@
 this is my first project
 
 my name : is netanel elhadad
-birth: 15\05\91
+
+age - 27;
 
 ```html
 <h1> hello</h1>
